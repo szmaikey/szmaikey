@@ -15,7 +15,7 @@
 - Python
 
 ### Front-End Development
-- [React](https://github.com/facebook/react) - App framework.
+- [React](https://github.com/facebook/react) 
 - HTML5 / CSS
     
 ### Back-End Development
